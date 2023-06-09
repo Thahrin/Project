@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://super73.com/cdn/shop/files/SUPER73_SECTOR73_Hotspot_R-Brooklyn_Cosmic-Dust_1920x.jpg?v=1683224411");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+ .btnstyle{
+  color:#ffffff;
+  background: #03bfd4;
+  padding-top:"12px";
+  font-size:25px;
+  margin-left: 225px;
+  border-radius: 15%;
+ }
+ .btnsty{
+  color:#ffffff;
+  background: #db1e8c;
+  padding-top:"12px";
+  font-size:27px;
+   margin-left: 15px;
+  border-radius: 15%;
+ }
+ 
+  
